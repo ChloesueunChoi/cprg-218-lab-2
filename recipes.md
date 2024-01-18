@@ -59,10 +59,11 @@ Ingredients:
 - 2 cloves garlic, minced
 - Salt and pepper to taste
 - 1 jar (24 oz) spaghetti sauce
+- 1 cup of cream
 
 Instructions:
 1. Cook spaghetti according to package instructions.
-2. In a mixing bowl, combine ground beef, bread crumbs, milk, Parmesan cheese, egg, garlic, salt, and pepper.
+2. In a mixing bowl, combine ground beef, bread crumbs, milk, Parmesan cheese, egg, garlic, salt, cream and pepper.
 3. Form mixture into meatballs.
 4. In a large skillet, brown meatballs over medium-high heat.
 5. Add spaghetti sauce to the skillet and bring to a simmer.
@@ -102,12 +103,14 @@ Ingredients:
 - 2 eggs
 - 2 tsp vanilla extract
 - 2 cups semisweet chocolate chips
+- 2 cups mint chocolate chips
+
 
 Instructions:
 1. Preheat oven to 375°F (190°C).
 2. Combine flour, baking soda, and salt in a bowl.
 3. Cream together butter, white sugar, and brown sugar until smooth.
-4. Beat in eggs one at a time, then stir in vanilla.
+4. Beat in eggs one at a time, then stir in vanilla and put the chocolate chips
 5. Gradually blend in the dry ingredients.
 6. Stir in chocolate chips.
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
