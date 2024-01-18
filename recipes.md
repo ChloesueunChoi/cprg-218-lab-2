@@ -81,6 +81,7 @@ Ingredients:
 - Lettuce
 - Tomato
 - Mayonnaise
+- silce of onion
 
 Instructions:
 1. Preheat grill to medium-high heat.
