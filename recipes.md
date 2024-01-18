@@ -9,6 +9,8 @@
     - [Grilled Chicken Sandwich](#grilled-chicken-sandwich)
 - [Desserts](#desserts)
     - [Chocolate Chip Cookies](#chocolate-chip-cookies)
+- [Drink](#drink)
+    - [Classic Mojito](#classic-mojito)
 
 ## Appetizers
 ### Spinach and Artichoke Dip
@@ -118,3 +120,21 @@ Instructions:
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
 10. Enjoy the love.
+
+## Drink
+### Classic Mojito
+
+Ingredients:
+- 6 mint leaves
+- 1/2 lime, cut into 4 wedges
+- 1 tsp granulated sugar
+- 2 oz white rum
+- 1 can club soda
+
+Instructions:
+1. Place the mint leaves, lime wedges, and sugar in a cocktail shaker
+2. Muddle for about 20 seconds.
+3. Add the rum and ice cubes. Cover and shake well, about 10 seconds.
+4. Fill a tall glass one-third full of ice.
+5. Add the mojito mixture to the glass.
+6. Top with club soda and garnish with lime slices and mint sprigs.
